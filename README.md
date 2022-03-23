@@ -15,9 +15,7 @@ I am a jovial developer focused on improving my skills and gaining project exper
 ### Languages and Tools:
 Skills: FLUTTER / HTML / CSS
 
-
 <img src='https://user-images.githubusercontent.com/57329960/159797330-3dcace39-41f1-46a8-9ed9-62302193eb86.png' alt='github' height='40'> <img src='https://user-images.githubusercontent.com/57329960/159799152-74d3cfe7-8948-4fcd-a077-73457cf2072e.png' alt='github' height='40'> <img src='https://user-images.githubusercontent.com/57329960/159799379-1cc5786f-7e50-4df4-bad4-5dd426d89a20.png' alt='github' height='40'> <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' alt='github' height='40'>
-
 
  <details>
   <summary>:zap: GitHub Stats</summary>
