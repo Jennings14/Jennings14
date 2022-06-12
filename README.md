@@ -3,9 +3,9 @@
 #### I'm a Project Manager, and Developer
 
 I am a jovial developer focused on improving my skills and gaining project experiences.
-- 🔭 I a beleive a jack of all trades is a master of none ; but sometimes better than a master of one.
+- 🔭 I believe a jack of all trades is a master of none ; but sometimes better than a master of one.
 - 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more and master code languages
 - ⚡ Fun fact: I love to watch football and trade forex
 
